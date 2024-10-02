@@ -39,7 +39,9 @@ class ContaBancaria:
 
 # Exemplo de uso do sistema bancário
 def main():
+    
     conta = ContaBancaria(1500)  # Saldo inicial de R$1500
+    conta.consultar_saldo() # Exibe saldo em conta 
 
     while True:
         print("\nMenu:")
