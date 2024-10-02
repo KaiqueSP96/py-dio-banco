@@ -1,0 +1,1 @@
+Neste programa criei um sistema bancário em Python com ajuda da IA, este programa segue todas as regras universais de usabilidade de um sistema bancário, e também segue boas práticas da linguagem Python.
